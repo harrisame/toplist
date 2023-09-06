@@ -27,7 +27,7 @@ Technology
 14. Chevrolet
 15. Jeep
 
-Retail
+`Retail <https://www.knot35.com/toplist/>`_
 ------
 
 16. Walmart
@@ -114,7 +114,7 @@ Miscellaneous
    * - Walgreens Boots Alliance
      - 13,200
      - Pharmacy, health and beauty products, and general merchandise
-   * - Dollar Tree
+   * - `Dollar Tree <https://www.depkes.org>`_
      - 15,344
      - Dollar-priced general merchandise
    * - Rite Aid
@@ -166,9 +166,3 @@ Conclusion
 
 These brands are major players in their respective fields. It's important to note that the term "top" can be very subjective and context-dependent. For a more tailored list, specific criteria such as revenue, customer service ratings, or other factors would need to be applied.
 
-Contents
---------
-
-.. toctree::
-
-   usage
